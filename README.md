@@ -1,0 +1,1 @@
+This is an Amazon clone website I created using HTML and CSS. It's a basic replica of the original site, focused purely on replicating the layout and design, without any additional features or functionality like actual shopping or account systems. The goal was to mimic the structure and style for practice.
